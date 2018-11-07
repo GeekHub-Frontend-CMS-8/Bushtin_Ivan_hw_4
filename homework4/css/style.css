@@ -124,6 +124,9 @@
 	justify-content: center;
 	text-align: center;
 }
+.latest_works1,.latest_works2{
+	flex-wrap: wrap;
+}
 .expert_in_1,.expert_in_2{
 	margin: 0px 10%;
 }
@@ -136,6 +139,8 @@
 }
 .mobile_heading,.web_design_heading,.web_development_heading,
 .product_design_heading,.ux_ui_heading,.animations_heading{
+	margin-top: 62px;
+	margin-bottom: 33px;
 	color: #3677fd;
 	font-family: 'Lato' sans-serif;
 	font-size: 24px;
