@@ -197,7 +197,16 @@
 	text-transform: capitalize;
 }
 .clients_footer_image{
+	display: flex;
+	justify-content: space-around;
+	filter: contrast(1%) brightness(150%);
 	padding-bottom: 99px;
+}
+.microsoft{
+	margin: 7px 0;
+}
+.samsung{
+	margin: 14px 0;
 }
 
 .hire_me_footer{
@@ -231,7 +240,4 @@
 	font: 700 16px 'Lato', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 0.4px;
-}
-.logo{
-	filter: contrast(1%) brightness(150%);
 }
