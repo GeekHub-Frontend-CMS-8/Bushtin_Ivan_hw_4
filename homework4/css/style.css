@@ -124,6 +124,7 @@
 	justify-content: center;
 	text-align: center;
 }
+
 .latest_works1,.latest_works2{
 	flex-wrap: wrap;
 }
@@ -160,7 +161,6 @@
 .latest_works{
 	text-align: center;
 }
-
 .latest_works_heading{
 	padding-top: 91px;
 	padding-bottom: 104px;
@@ -185,7 +185,6 @@
 	background-color: #f1f8ff;
 	text-align: center;
 }
-
 .clients_footer_heading{
 	padding-top: 94px;
 	padding-bottom: 76px;
